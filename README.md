@@ -1,6 +1,3 @@
----
-yandex-verification: 205559b4e86a0dfa
----
 # LIFE AS TRAIN
 October 22, 2020
 
