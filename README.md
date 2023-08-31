@@ -1,5 +1,14 @@
 # LIFE AS TRAIN
 October 22, 2020
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7CVZFHKDFN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7CVZFHKDFN');
+</script>
 
 ![kdpv](https://github.com/alexus817/train/blob/main/train.gif?raw=true)
 
