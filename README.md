@@ -1,3 +1,18 @@
+---
+title: life_train
+layout: page
+---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7CVZFHKDFN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7CVZFHKDFN');
+</script>
+
 # LIFE AS TRAIN
 October 22, 2020
 
