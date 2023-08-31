@@ -1,6 +1,4 @@
 ---
-title: life_train
-layout: page
 ---
 
 <!-- Google tag (gtag.js) -->
