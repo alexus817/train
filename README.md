@@ -1,4 +1,4 @@
-# LIFE AS TRAIN _A
+# LIFE AS TRAIN _B
 October 22, 2020
 
 ![kdpv](https://github.com/alexus817/train/blob/main/train.gif?raw=true)
