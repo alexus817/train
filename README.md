@@ -1,3 +1,8 @@
+---
+title: Life as train
+layout: default
+---
+
 # LIFE AS TRAIN
 October 22, 2020
 
