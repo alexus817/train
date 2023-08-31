@@ -1,6 +1,5 @@
 # LIFE AS TRAIN
 October 22, 2020
-![script](https://github.com/alexus817/train/blob/main/g-tag.js?raw=true)
 ![kdpv](https://github.com/alexus817/train/blob/main/train.gif?raw=true)
 
 Жизнь как поезд. Данное повествование просто очередная аналогия, загоняющая в депрессию или накидывающая идей для размышления над бессмысленным существованием.
